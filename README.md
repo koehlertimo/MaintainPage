@@ -1,9 +1,9 @@
 # Maintain page
-[![forthebadge](https://forthebadge.com/images/badges/built-with-love.svg)](https://forthebadge.com) [![forthebadge](https://forthebadge.com/images/badges/made-with-python.svg)](https://forthebadge.com) [![forthebadge](https://forthebadge.com/images/badges/check-it-out.svg)](https://forthebadge.com)
+ [![forthebadge](https://forthebadge.com/images/badges/made-with-python.svg)](https://forthebadge.com) [![forthebadge](https://forthebadge.com/images/badges/check-it-out.svg)](https://forthebadge.com)
 
 > Maintain page for my Projects
 
-*DISCLAIMER!*
+**DISCLAIMER!**
 The foundation of this project is not minen! I modifed a Github-Gist for my personal use. [Check out the Gist](https://gist.github.com/pitch-gist/2999707)
 
 ## Install 
